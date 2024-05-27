@@ -1,0 +1,1132 @@
+{
+    "examples": [
+        {
+            "context": "Hewlett-Packard Pavilion zt1170 Notebook (1.13-GHz Pentium III, 512 MB RAM, 30 GB hard drive)",
+            "category": "Laptops",
+            "question": "What is the Screen Size of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "zt1170 Notebook (1.13-GHz",
+            "score": 2.040155770868074e-26
+        },
+        {
+            "context": "Hewlett-Packard Pavilion zt1170 Notebook (1.13-GHz Pentium III, 512 MB RAM, 30 GB hard drive)",
+            "category": "Laptops",
+            "question": "What is the Battery Life of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "zt1170 Notebook (1.13-GHz",
+            "score": 6.064358964422795e-27
+        },
+        {
+            "context": "Hewlett-Packard Pavilion zt1170 Notebook (1.13-GHz Pentium III, 512 MB RAM, 30 GB hard drive)",
+            "category": "Laptops",
+            "question": "What is the Refresh Rate of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "1.13-GHz",
+            "score": 5.496873691473385e-27
+        },
+        {
+            "context": "Toshiba Satellite 5105-S607 Laptop (1.7-GHz Pentium 4, 512 MB RAM, 40 GB hard drive)",
+            "category": "Laptops",
+            "question": "What is the Screen Size of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "5105-S607 Laptop",
+            "score": 5.602021146419569e-26
+        },
+        {
+            "context": "Toshiba Satellite 5105-S607 Laptop (1.7-GHz Pentium 4, 512 MB RAM, 40 GB hard drive)",
+            "category": "Laptops",
+            "question": "What is the Battery Life of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "S607 Laptop (1.7-GHz",
+            "score": 9.401390816043337e-27
+        },
+        {
+            "context": "Toshiba Satellite 5105-S607 Laptop (1.7-GHz Pentium 4, 512 MB RAM, 40 GB hard drive)",
+            "category": "Laptops",
+            "question": "What is the Weight of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "S607 Laptop (1.7-GHz",
+            "score": 5.317863895746436e-27
+        },
+        {
+            "context": "Toshiba Satellite 5105-S607 Laptop (1.7-GHz Pentium 4, 512 MB RAM, 40 GB hard drive)",
+            "category": "Laptops",
+            "question": "What is the Refresh Rate of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "1.7-GHz",
+            "score": 9.996339079627731e-27
+        },
+        {
+            "context": "Sony VAIO PCG-GRX570 Laptop (1.6-GHz Pentium 4, 512 MB RAM, 40 GB hard drive)",
+            "category": "Laptops",
+            "question": "What is the Battery Life of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "1.6-GHz",
+            "score": 9.355079904600602e-27
+        },
+        {
+            "context": "Sony VAIO PCG-GRX570 Laptop (1.6-GHz Pentium 4, 512 MB RAM, 40 GB hard drive)",
+            "category": "Laptops",
+            "question": "What is the Weight of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Pentium",
+            "score": 7.063767923768064e-27
+        },
+        {
+            "context": "Toshiba Satellite 1135-S155 Laptop (2.0-GHz Celeron, 512 MB RAM, 40 GB Hard Drive, DVD/CD-RW Drive)",
+            "category": "Laptops",
+            "question": "What is the Number of Cores of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "S155 Laptop (2.0-GHz",
+            "score": 5.646238032752371e-26
+        },
+        {
+            "context": "Toshiba Satellite 1135-S155 Laptop (2.0-GHz Celeron, 512 MB RAM, 40 GB Hard Drive, DVD/CD-RW Drive)",
+            "category": "Laptops",
+            "question": "What is the Battery Life of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "S155 Laptop (2.0-GHz",
+            "score": 1.723608846687819e-26
+        },
+        {
+            "context": "HP Pavilion zd7010us Laptop (2.66-GHz Pentium 4, 512 MB RAM, 60 GB Hard Drive, DVD/CD-RW Drive)",
+            "category": "Laptops",
+            "question": "What is the Weight of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "zd7010us Laptop (2.66-GHz Pentium",
+            "score": 7.34311096587781e-27
+        },
+        {
+            "context": "HP Pavilion zd7010us Laptop (2.66-GHz Pentium 4, 512 MB RAM, 60 GB Hard Drive, DVD/CD-RW Drive)",
+            "category": "Laptops",
+            "question": "What is the Battery Life of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "zd7010us Laptop (2.66-GHz",
+            "score": 1.1306463709504837e-26
+        },
+        {
+            "context": "Gateway M350 Laptop (2.80 GHz Pentium 4 (Hyper-Threading), 512 MB RAM, 40 GB Hard Drive, 802.11g, DVD/CD-RW)",
+            "category": "Laptops",
+            "question": "What is the Battery Life of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "2.80 GHz",
+            "score": 8.375305415852372e-27
+        },
+        {
+            "context": "Gateway M350 Laptop (2.80 GHz Pentium 4 (Hyper-Threading), 512 MB RAM, 40 GB Hard Drive, 802.11g, DVD/CD-RW)",
+            "category": "Laptops",
+            "question": "What is the Screen Size of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "M350 Laptop (2.80 GHz",
+            "score": 6.557075939145599e-26
+        },
+        {
+            "context": "Toshiba Satellite A15-S129 Laptop (2.40-GHz Celeron, 256 MB RAM, 40 GB Hard Drive)",
+            "category": "Laptops",
+            "question": "What is the Number of Cores of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "S129 Laptop (2.40-GHz",
+            "score": 4.6212904719725496e-26
+        },
+        {
+            "context": "Toshiba Satellite A15-S129 Laptop (2.40-GHz Celeron, 256 MB RAM, 40 GB Hard Drive)",
+            "category": "Laptops",
+            "question": "What is the Weight of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "S129 Laptop (2.40-GHz",
+            "score": 6.713811815805326e-27
+        },
+        {
+            "context": "Toshiba Satellite A15-S129 Laptop (2.40-GHz Celeron, 256 MB RAM, 40 GB Hard Drive)",
+            "category": "Laptops",
+            "question": "What is the Refresh Rate of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "S129 Laptop (2.40-GHz",
+            "score": 1.385870376069087e-26
+        },
+        {
+            "context": "Toshiba Satellite A15-S129 Laptop (2.40-GHz Celeron, 256 MB RAM, 40 GB Hard Drive)",
+            "category": "Laptops",
+            "question": "What is the Battery Life of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "S129 Laptop (2.40-GHz",
+            "score": 1.1348984390817019e-26
+        },
+        {
+            "context": "Gateway 400 Series Laptop (2.20 GHz Celeron, 256 MB RAM, 40 GB Hard Drive)",
+            "category": "Laptops",
+            "question": "What is the Refresh Rate of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "2.20 GHz",
+            "score": 5.56505276706266e-27
+        },
+        {
+            "context": "Gateway 400 Series Laptop (2.20 GHz Celeron, 256 MB RAM, 40 GB Hard Drive)",
+            "category": "Laptops",
+            "question": "What is the Weight of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Celeron",
+            "score": 3.235058098111116e-27
+        },
+        {
+            "context": "Gateway 400 Series Laptop (2.20 GHz Celeron, 256 MB RAM, 40 GB Hard Drive)",
+            "category": "Laptops",
+            "question": "What is the Screen Size of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "2.20 GHz",
+            "score": 1.481921124627545e-26
+        },
+        {
+            "context": "Gateway 400 Series Laptop (2.20 GHz Celeron, 256 MB RAM, 40 GB Hard Drive)",
+            "category": "Laptops",
+            "question": "What is the Number of Cores of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Celeron",
+            "score": 1.5788846099052468e-26
+        },
+        {
+            "context": "HP Pavilion zd7030us Media Center Laptop (3.06-GHz Pentium 4, 512 MB RAM, 128 GB Hard Drive, DVD+R/RW/CD-RW Drive)",
+            "category": "Laptops",
+            "question": "What is the Weight of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Pentium",
+            "score": 8.89942953166187e-27
+        },
+        {
+            "context": "HP Pavilion zd7030us Media Center Laptop (3.06-GHz Pentium 4, 512 MB RAM, 128 GB Hard Drive, DVD+R/RW/CD-RW Drive)",
+            "category": "Laptops",
+            "question": "What is the Refresh Rate of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "3.06-GHz",
+            "score": 1.061576822392122e-26
+        },
+        {
+            "context": "HP Pavilion zd7030us Media Center Laptop (3.06-GHz Pentium 4, 512 MB RAM, 128 GB Hard Drive, DVD+R/RW/CD-RW Drive)",
+            "category": "Laptops",
+            "question": "What is the Battery Life of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "zd7030us Media Center Laptop (3.06-GHz",
+            "score": 9.913950878094756e-27
+        },
+        {
+            "context": "Gateway M505X Notebook (1.4-GHz Pentium M (Centrino), 512 MB RAM, 40 GB Hard Drive, DVD/CD-RW Combo)",
+            "category": "Laptops",
+            "question": "What is the Refresh Rate of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "1.4-GHz",
+            "score": 7.277702533106531e-27
+        },
+        {
+            "context": "Gateway M505X Notebook (1.4-GHz Pentium M (Centrino), 512 MB RAM, 40 GB Hard Drive, DVD/CD-RW Combo)",
+            "category": "Laptops",
+            "question": "What is the Battery Life of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "1.4-GHz",
+            "score": 6.045177087362687e-27
+        },
+        {
+            "context": "Sony VAIO PCG-TR3A Laptop (1.0 GHz Pentium Centrino, 512 MB RAM, 40 GB Hard Drive, CD-RW/DVD Combo Drive)",
+            "category": "Laptops",
+            "question": "What is the Number of Cores of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Pentium",
+            "score": 3.826664411018811e-26
+        },
+        {
+            "context": "Apple iBook Laptop 12\" M9623LL/A (1.2 GHz PowerPC G4, 256MB RAM, 30GB Hard Drive, Combo Drive, Built-in AirPort Extreme)",
+            "category": "Laptops",
+            "question": "What is the Refresh Rate of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "1.2 GHz",
+            "score": 1.8131924765674202e-26
+        },
+        {
+            "context": "Apple iBook Laptop 12\" M9623LL/A (1.2 GHz PowerPC G4, 256MB RAM, 30GB Hard Drive, Combo Drive, Built-in AirPort Extreme)",
+            "category": "Laptops",
+            "question": "What is the Number of Cores of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "1.2 GHz",
+            "score": 2.7594989251140663e-26
+        },
+        {
+            "context": "Apple iBook Laptop 12\" M9623LL/A (1.2 GHz PowerPC G4, 256MB RAM, 30GB Hard Drive, Combo Drive, Built-in AirPort Extreme)",
+            "category": "Laptops",
+            "question": "What is the Weight of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "M9623LL/A (1.2 GHz",
+            "score": 1.303420390703496e-26
+        },
+        {
+            "context": "HP Pavilion ze4805us Laptop (2.133 GHz Athlon, 256 MB RAM, 60 GB Hard Drive, DVD/CD-RW Drive)",
+            "category": "Laptops",
+            "question": "What is the Number of Cores of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "ze4805us Laptop (2.133 GHz",
+            "score": 3.1676814419738704e-26
+        },
+        {
+            "context": "Acer Computer Ferrari 3200 Notebook Computer",
+            "category": "Laptops",
+            "question": "What is the Number of Cores of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Acer",
+            "score": 3.5919171241805265e-27
+        },
+        {
+            "context": "Acer Computer Ferrari 3200 Notebook Computer",
+            "category": "Laptops",
+            "question": "What is the Refresh Rate of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "3200",
+            "score": 2.1597253210912078e-27
+        },
+        {
+            "context": "eMachines M6810 Laptop (2.00 GHz Athlon 64 3200+ Mobile, 512 MB RAM, 60 GB Hard Drive, DVD/CD-RW Drive)",
+            "category": "Laptops",
+            "question": "What is the Refresh Rate of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "2.00 GHz",
+            "score": 1.363541606517048e-26
+        },
+        {
+            "context": "eMachines M6810 Laptop (2.00 GHz Athlon 64 3200+ Mobile, 512 MB RAM, 60 GB Hard Drive, DVD/CD-RW Drive)",
+            "category": "Laptops",
+            "question": "What is the Screen Size of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "M6810 Laptop (2.00 GHz",
+            "score": 2.759198788191533e-26
+        },
+        {
+            "context": "eMachines M6810 Laptop (2.00 GHz Athlon 64 3200+ Mobile, 512 MB RAM, 60 GB Hard Drive, DVD/CD-RW Drive)",
+            "category": "Laptops",
+            "question": "What is the Number of Cores of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "M6810 Laptop (2.00 GHz",
+            "score": 4.8179097385158113e-26
+        },
+        {
+            "context": "Medion MD95154 15\" Laptop (Intel Celeron M 330, 256 MB RAM, 40 GB Hard Drive, DVD+/-RW/CD-RW Drive)",
+            "category": "Laptops",
+            "question": "What is the Processor Speed of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Celeron",
+            "score": 4.109595229503358e-26
+        },
+        {
+            "context": "HP Pavilion zd7380us Media Center Laptop (Intel Pentium 4 Processor with HT Technology, 1 GB RAM, 80 GB Hard Drive, DVD+/-RW/CD-RW Drive)",
+            "category": "Laptops",
+            "question": "What is the Screen Size of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "zd7380us Media Center Laptop",
+            "score": 2.7123325618123527e-25
+        },
+        {
+            "context": "Sharp Actius MC24 Notebook Computer",
+            "category": "Laptops",
+            "question": "What is the Processor Speed of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "MC24",
+            "score": 3.0013882920395178e-27
+        },
+        {
+            "context": "IBM Thinkpad T43 1.86GHz 512MB 40GB Laptop Notebook CDRW/DVD Windows XP Pro",
+            "category": "Laptops",
+            "question": "What is the Screen Size of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "512MB",
+            "score": 1.7609440001433367e-25
+        },
+        {
+            "context": "PZ439UAABA - BCTO HP Compaq nc8230, Pentium-M 760 (2.0G), 15.4qd WSXGA+, 1G memory, 80G hard drive, DVD/CDRW, modem, 802.11b/g, Windows XP Pro, 3/3/0 wrty",
+            "category": "Laptops",
+            "question": "What is the Screen Size of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "15.4qd",
+            "score": 0.9890369772911072
+        },
+        {
+            "context": "PZ439UAABA - BCTO HP Compaq nc8230, Pentium-M 760 (2.0G), 15.4qd WSXGA+, 1G memory, 80G hard drive, DVD/CDRW, modem, 802.11b/g, Windows XP Pro, 3/3/0 wrty",
+            "category": "Laptops",
+            "question": "What is the Processor Speed of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "2.0G",
+            "score": 1.0305507288560413e-24
+        },
+        {
+            "context": "Toshiba Satellite M65-S909 17\" Laptop (Intel Pentium M Processor 760 (Centrino), 1024 MB RAM, 100 GB Hard Drive, DVD SuperMulti Drive)",
+            "category": "Laptops",
+            "question": "What is the Processor Speed of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "S909 17\" Laptop (Intel Pentium",
+            "score": 4.4922161878436725e-26
+        },
+        {
+            "context": "Averatec AV3715-EH1 12.1\" Laptop (AMD Mobile SempronTM 3000+, 512 MB RAM, 80 GB Hard Drive, DVD Drive)",
+            "category": "Laptops",
+            "question": "What is the Processor Speed of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "AMD",
+            "score": 3.673642959887028e-26
+        },
+        {
+            "context": "HP Pavilion DV9525US Entertainment 17\" Laptop (Intel Core 2 Duo Processor T7100, 1 GB RAM, 160 GB Hard Drive, SuperMulti Pavilion DVD Drive, Vista Premium)",
+            "category": "Laptops",
+            "question": "What is the Resolution of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "DV9525US Entertainment 17\" Laptop (Intel Core",
+            "score": 1.899430380947632e-26
+        },
+        {
+            "context": "Acer Aspire 3680-2682",
+            "category": "Laptops",
+            "question": "What is the Processor Speed of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "2682",
+            "score": 5.4259667287108805e-27
+        },
+        {
+            "context": "Sony VAIO VGN-CR407E/P 14.1-inch Laptop (1.73 GHz Intel Pentium Dual Core T2370 Processor, 2 GB RAM, 160 GB Hard Drive, DVD Drive, Vista Premium) Pink",
+            "category": "Laptops",
+            "question": "What is the Resolution of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "CR407E/P 14.1-inch Laptop",
+            "score": 8.814241182064152e-26
+        },
+        {
+            "context": "Lenovo ThinkPad SL500 15.4-Inch WiMAX Laptop (Intel T5870 Processor, 2 GB RAM, 250 GB Hard Drive, Vista Premium)",
+            "category": "Laptops",
+            "question": "What is the Processor Speed of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "WiMAX",
+            "score": 4.474899150230116e-26
+        },
+        {
+            "context": "ASUS X71SL-B2 17-Inch Laptop",
+            "category": "Laptops",
+            "question": "What is the Processor Brand of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "B2 17-Inch Laptop",
+            "score": 1.0761873182992083e-24
+        },
+        {
+            "context": "Sony VAIO VGN-Z610Y/B 13.1-Inch Widescreen (Black)",
+            "category": "Laptops",
+            "question": "What is the Processor Speed of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Z610Y/B 13.1-Inch Widescreen",
+            "score": 1.134517490138702e-26
+        },
+        {
+            "context": "Asus EEEPC 900B-BLU01X,ASUS EEEPC 900B,16GB SSD,Blue, 8.9\" Netbook,XP Home preload.w/Webcam",
+            "category": "Laptops",
+            "question": "What is the Processor Speed of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "ASUS",
+            "score": 4.487412148190393e-26
+        },
+        {
+            "context": "ASUS M60J-A1 16-Inch Silver Grey Versatile Entertainment Laptop (Windows 7 Home Premium)",
+            "category": "Laptops",
+            "question": "What is the Resolution of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Versatile",
+            "score": 1.4299852651520343e-26
+        },
+        {
+            "context": "Dell Adamo Xps 13 Notebook Grigio C",
+            "category": "Laptops",
+            "question": "What is the Processor Brand of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Grigio",
+            "score": 2.1486673847743305e-24
+        },
+        {
+            "context": "Lenovo Thinkpad T430 23426FU 14\" Laptop - Intel Core Core i5-3210M (2.5 GHz) CPU, 4GB 1600MHz SDRAM, 500GB HDD, 802.11bgn, 6-cell Li-ion Battery, Windows 7 Professional",
+            "category": "Laptops",
+            "question": "What is the Resolution of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "3210M (2.5 GHz)",
+            "score": 1.091548806706577e-25
+        },
+        {
+            "context": "Apple MacBook Air MB003LL/A",
+            "category": "Laptops",
+            "question": "What is the Resolution of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "MB003LL",
+            "score": 3.1553484799447945e-27
+        },
+        {
+            "context": "MSI CX61 2QC 15.6\" i5-4210M 8GB 750GB HDD NVIDIA GT 920M Windows 8.1 Notebook Laptop Computer",
+            "category": "Laptops",
+            "question": "What is the Processor Brand of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "2QC 15.6\" i5",
+            "score": 1.3035506153686918e-21
+        },
+        {
+            "context": "MSI GE72 APACHE-078 17.3-Inch Gaming Laptop",
+            "category": "Laptops",
+            "question": "What is the Resolution of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "APACHE",
+            "score": 4.2016380408103484e-26
+        },
+        {
+            "context": "Hisense Chromebook C11 11.6\" Cloud Computer",
+            "category": "Laptops",
+            "question": "What is the Processor Brand of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "C11",
+            "score": 7.748200439246929e-26
+        },
+        {
+            "context": "Dell 11-3157 i3000-12099GLD 2-in-1 Inspiron 11.6\" Touch-Screen Laptop Intel N3700 4GB RAM 128GB SSD Windows 10 Home - Gold",
+            "category": "Laptops",
+            "question": "What is the Resolution of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "12099GLD",
+            "score": 2.880315129790202e-26
+        },
+        {
+            "context": "Toshiba Satellite S55t-C5168-4K S55t-C/5168-4K 15.6\" Laptop (Brushed Metal)",
+            "category": "Laptops",
+            "question": "What is the Resolution of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "4K",
+            "score": 2.602678615685578e-26
+        },
+        {
+            "context": "HP Business W0R84UT FolioG1 12.5 m7-6Y75 256G 8G",
+            "category": "Laptops",
+            "question": "What is the Processor Brand of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "6Y75",
+            "score": 3.231215485767562e-24
+        },
+        {
+            "context": "HP Chromebook 13 G1, 13.3\" (W0T01UT#ABA)",
+            "category": "Laptops",
+            "question": "What is the Processor Brand of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "ABA",
+            "score": 1.7198530984069892e-25
+        },
+        {
+            "context": "Gate-Way-11 inches Netbook, 250GB",
+            "category": "Laptops",
+            "question": "What is the Processor Brand of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "250GB",
+            "score": 3.0123494912064044e-26
+        },
+        {
+            "context": "Lexar 1 GB Pro 40X USB CompactFlash",
+            "category": "Flash Memory Cards",
+            "question": "What is the SD Format of the Flash Memory Card?",
+            "answer": "I do not know.",
+            "pred": "CompactFlash",
+            "score": 3.203306030675102e-25
+        },
+        {
+            "context": "SanDisk SDCFH-004G-A11 4GB 30MB/s ULTRA CF Card (US Retail Package)",
+            "category": "Flash Memory Cards",
+            "question": "What is the SD Format of the Flash Memory Card?",
+            "answer": "I do not know.",
+            "pred": "CF Card",
+            "score": 1.5984986396371174e-22
+        },
+        {
+            "context": "SanDisk Ultra CompactFlash 2 GB Memory Card 15MB/s SDCFH-002G-U46",
+            "category": "Flash Memory Cards",
+            "question": "What is the SD Format of the Flash Memory Card?",
+            "answer": "I do not know.",
+            "pred": "CompactFlash",
+            "score": 2.63249589389946e-25
+        },
+        {
+            "context": "Fujifilm Finepix S5100 Digital Camera Memory Card 2GB xD-Picture Card (M+ Type)",
+            "category": "Flash Memory Cards",
+            "question": "What is the SD Format of the Flash Memory Card?",
+            "answer": "I do not know.",
+            "pred": "+",
+            "score": 5.3769528439246755e-25
+        },
+        {
+            "context": "Lexar Professional 128 GB 400x UDMA7 CompactFlash Card (LCF128CTBNA400)",
+            "category": "Flash Memory Cards",
+            "question": "What is the SD Format of the Flash Memory Card?",
+            "answer": "I do not know.",
+            "pred": "CompactFlash Card",
+            "score": 2.6804929030824682e-25
+        },
+        {
+            "context": "Toshiba FlashAir",
+            "category": "Flash Memory Cards",
+            "question": "What is the SD Format of the Flash Memory Card?",
+            "answer": "I do not know.",
+            "pred": "FlashAir",
+            "score": 2.627347775306036e-26
+        },
+        {
+            "context": "Sandisk Extreme CompactFlash Memory Card - 16 GB (SDCFXS-016G-A46)",
+            "category": "Flash Memory Cards",
+            "question": "What is the SD Format of the Flash Memory Card?",
+            "answer": "I do not know.",
+            "pred": "SDCFXS",
+            "score": 4.287461485066528e-25
+        },
+        {
+            "context": "Panasonic Lumix DMC-TZ3 Digital Camera Memory Card 2GB Standard Secure Digital (SD) Memory Card",
+            "category": "Flash Memory Cards",
+            "question": "What is the SD Format of the Flash Memory Card?",
+            "answer": "I do not know.",
+            "pred": "TZ3",
+            "score": 1.1382116898112355e-17
+        },
+        {
+            "context": "Eye-Fi Certified Compact Flash Type II Adapter for Eyefi Mobi Cards (SDCCFA-C15)",
+            "category": "Flash Memory Cards",
+            "question": "What is the Capacity of the Flash Memory Card?",
+            "answer": "I do not know.",
+            "pred": "Compact",
+            "score": 2.11877192304917e-24
+        },
+        {
+            "context": "Olympus C-2000 Zoom 2.1MP Digital Camera",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Type of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "2000",
+            "score": 2.2547086807558875e-26
+        },
+        {
+            "context": "Olympus C-2000 Zoom 2.1MP Digital Camera",
+            "category": "Digital Cameras",
+            "question": "What is the Camera Weight of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "2000 Zoom 2.1MP",
+            "score": 3.196399484116414e-27
+        },
+        {
+            "context": "Olympus D450 1.2MP Digital Camera w/ 3x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Camera Weight of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "D450 1.2MP Digital Camera w/",
+            "score": 3.4572923099519254e-27
+        },
+        {
+            "context": "Konica QM200 2MP Digital Camera",
+            "category": "Digital Cameras",
+            "question": "What is the Camera Weight of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "Konica",
+            "score": 3.363697892444539e-27
+        },
+        {
+            "context": "Sony MVC-FD95 Mavica 2MP Digital Camera with 10x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Camera Weight of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "FD95 Mavica 2MP Digital Camera with 10x",
+            "score": 8.00638891277313e-27
+        },
+        {
+            "context": "Kodak DC215 Digital Camera w/ 2x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Size of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "DC215 Digital Camera w/",
+            "score": 2.821937458355304e-27
+        },
+        {
+            "context": "Kodak DC215 Digital Camera w/ 2x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Camera Weight of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "DC215 Digital Camera w/",
+            "score": 4.838175220799829e-27
+        },
+        {
+            "context": "Kodak DC215 Digital Camera w/ 2x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Type of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "DC215 Digital Camera w/",
+            "score": 3.113287633666135e-26
+        },
+        {
+            "context": "Samsung Digimax 35 0.3MP Digital Camera/MP3",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Size of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "MP3",
+            "score": 2.1648762207274714e-27
+        },
+        {
+            "context": "Samsung Digimax 35 0.3MP Digital Camera/MP3",
+            "category": "Digital Cameras",
+            "question": "What is the Camera Weight of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "MP3",
+            "score": 3.695299502851278e-27
+        },
+        {
+            "context": "Polaroid PDC 2300Z 2.3MP Digital Camera Kit",
+            "category": "Digital Cameras",
+            "question": "What is the Camera Weight of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "2300Z 2.3MP",
+            "score": 2.9934929422325023e-27
+        },
+        {
+            "context": "Polaroid PDC 2300Z 2.3MP Digital Camera Kit",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Size of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "2300Z 2.3MP Digital",
+            "score": 6.857010870146339e-27
+        },
+        {
+            "context": "Polaroid Fun Flash 640 0.3MP Digital Camera Kit",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Type of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "640 0.3MP Digital",
+            "score": 1.6365743776826088e-26
+        },
+        {
+            "context": "Kodak DC120 Digital Camera",
+            "category": "Digital Cameras",
+            "question": "What is the Camera Weight of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "DC120 Digital",
+            "score": 2.1435436576984662e-27
+        },
+        {
+            "context": "Kodak DC120 Digital Camera",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Type of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "DC120 Digital",
+            "score": 1.2628293371211951e-26
+        },
+        {
+            "context": "Kodak DC120 Digital Camera",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Size of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "DC120",
+            "score": 2.5622778054631835e-27
+        },
+        {
+            "context": "Kyocera Finecam S4 4MP Digital Camera w 3x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Camera Weight of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "S4 4MP Digital Camera w 3x",
+            "score": 6.318155701378212e-27
+        },
+        {
+            "context": "Kyocera Finecam S4 4MP Digital Camera w 3x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Type of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "S4 4MP Digital",
+            "score": 4.945350834051848e-26
+        },
+        {
+            "context": "Sony DSCP51 Cyber-shot 2MP Digital Camera w/ 2x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Camera Weight of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "Cyber-shot 2MP Digital Camera w/",
+            "score": 4.9053004275235354e-27
+        },
+        {
+            "context": "Sony DSCP51 Cyber-shot 2MP Digital Camera w/ 2x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Size of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "Cyber",
+            "score": 2.3132812948197565e-26
+        },
+        {
+            "context": "Sony DSCP2 Cyber-shot 2MP Digital Camera w/ 3x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Size of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "Cyber",
+            "score": 5.90899650692501e-26
+        },
+        {
+            "context": "HP PS320 2 MP Digital Camera",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Size of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "PS320",
+            "score": 4.867842630849159e-27
+        },
+        {
+            "context": "Digital Concepts Digital Camera (OLD MODEL)",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Type of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "MODEL",
+            "score": 1.104315904159997e-26
+        },
+        {
+            "context": "Digital Concepts Digital Camera (OLD MODEL)",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Size of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "MODEL",
+            "score": 4.975463210955529e-27
+        },
+        {
+            "context": "Kodak Easyshare DX6340 3.1MP Digital Camera w/ 4x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Type of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "DX6340 3.1MP Digital",
+            "score": 3.070685138849916e-26
+        },
+        {
+            "context": "Pentax Optio 33L 3.2MP Digital Camera w/ 3x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Type of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "33L 3.2MP Digital",
+            "score": 2.5839021853973623e-26
+        },
+        {
+            "context": "Pentax Optio 33L 3.2MP Digital Camera w/ 3x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Size of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "33L 3.2MP Digital Camera w/ 3x",
+            "score": 3.4576220291584045e-27
+        },
+        {
+            "context": "Gateway DC-M50 5MP Digital Camera w/ 3x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Type of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "M50 5MP Digital",
+            "score": 5.535995337545317e-26
+        },
+        {
+            "context": "Vivitar ViviCam V3746 3.3MP Digital Camera with 3X Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Type of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "ViviCam V3746 3.3MP Digital",
+            "score": 3.093582442921538e-26
+        },
+        {
+            "context": "CNMSD780ISPWRSH - Digital Camera,12.1MP,4x Digital Zoom,2-1/2 LCD,Silver",
+            "category": "Digital Cameras",
+            "question": "What is the Optical Zoom of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "Digital",
+            "score": 4.4908711183705125e-26
+        },
+        {
+            "context": "Canon EOS 5D Mark II 21.1MP Full Frame CMOS Digital SLR Camera with EF 24-105mm f/4 L IS USM Lens w/32GB CF Memory + Battery Grip + 3 Extra Extended Life Batteries + USB Card Reader + Shock Proof Deluxe Hard Case + 3 Piece Filter Kit + Professional Full Size Tripod + Accessory Saver Bundle",
+            "category": "Digital Cameras",
+            "question": "What is the Optical Zoom of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "CMOS",
+            "score": 3.3612958880253387e-25
+        },
+        {
+            "context": "Superheadz CLAP Digital Camera Powershovel Juicy Yellow",
+            "category": "Digital Cameras",
+            "question": "What is the Resolution of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "CLAP",
+            "score": 2.013384247631395e-24
+        },
+        {
+            "context": "Panasonic Lumix FZ200 Digital Camera with SSE 16GB SSE Advanced Lens Package which Includes 0.43x Wide Angle Lens, 2.2x Telephoto Lens, 3 Piece Multi-Coated Filter Kit, 4 Piece Close-up Macro Kit, Extended Life Replacement Battery, Rapid Charger, Flash, Carrying Case, Full Size Tripod and more",
+            "category": "Digital Cameras",
+            "question": "What is the Resolution of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "FZ200",
+            "score": 5.432447236454711e-24
+        },
+        {
+            "context": "Casio Exilim EX-TR15 Black",
+            "category": "Digital Cameras",
+            "question": "What is the Resolution of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "Casio Exilim",
+            "score": 8.483863923841659e-27
+        },
+        {
+            "context": "Canon EOS 70D Digital SLR Camera & 18-135mm is & 55-250mm is STM Lens with 64GB Card + Battery + Charger + Backpack Case + Tele/Wide Lens Kit",
+            "category": "Digital Cameras",
+            "question": "What is the Resolution of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "Digital SLR Camera",
+            "score": 1.1852695498108758e-25
+        },
+        {
+            "context": "Fujifilm X-E2 Digital Camera & 18-55mm XF Lens (Silver) with 64GB Card + Battery + Backpack + Flex Tripod + Flash + Tele/Wide Lens + Kit",
+            "category": "Digital Cameras",
+            "question": "What is the Optical Zoom of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "E2 Digital Camera & 18-55mm XF Lens",
+            "score": 5.307368656070294e-26
+        },
+        {
+            "context": "Samsung Galaxy NX Android 4G LTE Wi-Fi Digital Camera & 18-55mm Lens with 50-200mm Lens + 32GB Card + Case + Flash + Tripod + Tele/Wide Lenses + Kit",
+            "category": "Digital Cameras",
+            "question": "What is the Resolution of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "LTE Wi-Fi Digital Camera & 18-55mm Lens",
+            "score": 3.202535412178314e-25
+        },
+        {
+            "context": "Nikon D7200 Wi-Fi Digital SLR Camera Body with 18-300mm VR Lens + 64GB Card + Case + Flash + Battery/Charger + Tripod + Kit",
+            "category": "Digital Cameras",
+            "question": "What is the Resolution of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "D7200 Wi-Fi Digital SLR Camera",
+            "score": 4.7570970060001475e-25
+        },
+        {
+            "context": "Panasonic LUMIX G7 Camera with 14-42mm Lens + 64GB SDHC + Accessory Bag Bundle",
+            "category": "Digital Cameras",
+            "question": "What is the Optical Zoom of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "G7 Camera with 14-42mm Lens",
+            "score": 1.894036236359392e-26
+        },
+        {
+            "context": "Panasonic DMC-ZS50K LUMIX 30X Travel Zoom Camera with Eye Viewfinder - MPX 12.1 Black + 2 Transcend 32 GB Class 10 SDHC + Platinum Accessory Kit + 2 Tripods + 2 Batteries + Bag + Polaroid Flash + More",
+            "category": "Digital Cameras",
+            "question": "What is the Resolution of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "MPX",
+            "score": 1.3638883519549634e-21
+        },
+        {
+            "context": "Sony Alpha a6300 ILCE-6300 E-mount 4K Mirrorless Camera Body Bundle includes a6300 Camera Body, 32GB SDHC Memory Card, Battery, Charger, Bag, HDMI Cable, Cleaning Kit, Beach Camera Cloth and More!",
+            "category": "Digital Cameras",
+            "question": "What is the Optical Zoom of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "6300 E-mount 4K Mirrorless",
+            "score": 1.1355377861934802e-25
+        },
+        {
+            "context": "Canon EOS 80D Wi-Fi Digital SLR Camera & EF-S 18-135mm IS USM with 70-300mm IS II USM Lens + 64GB Card + Battery + Case + Filters + Tripod + Flash + Kit",
+            "category": "Digital Cameras",
+            "question": "What is the Optical Zoom of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "EOS",
+            "score": 1.867262882718894e-26
+        },
+        {
+            "context": "Toshiba Satellite M45-S269 15.4\" Laptop (Intel Pentium M Processor 740 (Centrino), 512 MB RAM, 100 GB Hard Drive, DVD SuperMulti Drive)",
+            "category": "Laptops",
+            "question": "What is the Processor Speed of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Pentium",
+            "score": 6.480832532655989e-26
+        },
+        {
+            "context": "Acer Aspire E1-571-6607, 16 - Inch Notebook Windows 7 Home Premium 64-Bit, Intel Core i3 2348M(2.30GHz) 4GB Memory 500GB HDD",
+            "category": "Laptops",
+            "question": "What is the Resolution of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "2348M(2.30GHz)",
+            "score": 3.5887005130246087e-26
+        },
+        {
+            "context": "Lenovo Thinkpad Edge 68855tu 15.6 Notebook - Intel Core I3 I3-3120m 2.50 Ghz",
+            "category": "Laptops",
+            "question": "What is the Resolution of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "3120m 2.50 Ghz",
+            "score": 3.392047966411908e-26
+        },
+        {
+            "context": "Samsung Chromebook 2 13.3 Inch Laptop (Samsung Exynos, 4 GB, 16 GB SSD, Luminous Titan)",
+            "category": "Laptops",
+            "question": "What is the Processor Brand of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Exynos",
+            "score": 3.6947823983649296e-25
+        },
+        {
+            "context": "Transcend 2 GB MMCplus Flash Memory Card TS2GMMC4",
+            "category": "Flash Memory Cards",
+            "question": "What is the SD Format of the Flash Memory Card?",
+            "answer": "I do not know.",
+            "pred": "TS2GMMC4",
+            "score": 5.562713316848054e-25
+        },
+        {
+            "context": "SanDisk 64GB CompactFlash Memory Card Extreme 400x UDMA",
+            "category": "Flash Memory Cards",
+            "question": "What is the SD Format of the Flash Memory Card?",
+            "answer": "I do not know.",
+            "pred": "CompactFlash",
+            "score": 5.530184144383199e-25
+        },
+        {
+            "context": "Olympus Stylus Epic Zoom 170 QD Deluxe Compact 35mm Camera Kit",
+            "category": "Digital Cameras",
+            "question": "What is the Resolution of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "Compact",
+            "score": 5.647795219527374e-24
+        },
+        {
+            "context": "Sony NEX52LENSBDL 14.2 MP Digital SLR Camera",
+            "category": "Digital Cameras",
+            "question": "What is the Optical Zoom of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "Digital SLR Camera",
+            "score": 1.5924824456845985e-26
+        },
+        {
+            "context": "Pentax Optio RS1500 Digital Camera Kit - Silver - with 4GB SD Memory Card, Camera Case",
+            "category": "Digital Cameras",
+            "question": "What is the Optical Zoom of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "RS1500 Digital Camera Kit - Silver - with 4GB",
+            "score": 4.9716024917890104e-27
+        },
+        {
+            "context": "Fujifilm Finepix XP100 14MP CMOS Digital Camera 8 GB Bundle (Silver)",
+            "category": "Digital Cameras",
+            "question": "What is the Optical Zoom of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "CMOS",
+            "score": 9.543983741712253e-26
+        },
+        {
+            "context": "eMachines Notebook Computer (M5305)",
+            "category": "Laptops",
+            "question": "What is the Processor Brand of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "M5305",
+            "score": 3.320552208346805e-25
+        },
+        {
+            "context": "Toshiba Satellite P15-S420 Notebook PC (3.0 GHz Pentium 4, 512 MB RAM, 80 GB Hard Drive, DVD+R/RW Combo)",
+            "category": "Laptops",
+            "question": "What is the Weight of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "S420 Notebook PC (3.0 GHz Pentium",
+            "score": 8.416397827517796e-27
+        },
+        {
+            "context": "Acer TravelMate 290 Laptop (1.4 GHz Pentium M, 512 MB RAM, 40 GB Hard Drive, DVD+/-RW )",
+            "category": "Laptops",
+            "question": "What is the Weight of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Pentium",
+            "score": 6.0116246914295394e-27
+        },
+        {
+            "context": "Acer TravelMate 290 Laptop (1.4 GHz Pentium M, 512 MB RAM, 40 GB Hard Drive, DVD+/-RW )",
+            "category": "Laptops",
+            "question": "What is the Number of Cores of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Pentium",
+            "score": 2.9541645283217417e-26
+        },
+        {
+            "context": "Acer TravelMate 290 Laptop (1.4 GHz Pentium M, 512 MB RAM, 40 GB Hard Drive, DVD+/-RW )",
+            "category": "Laptops",
+            "question": "What is the Screen Size of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "1.4 GHz",
+            "score": 2.3761022021921526e-26
+        },
+        {
+            "context": "Acer TravelMate 290 Laptop (1.4 GHz Pentium M, 512 MB RAM, 40 GB Hard Drive, DVD+/-RW )",
+            "category": "Laptops",
+            "question": "What is the Battery Life of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "1.4 GHz",
+            "score": 8.61555824306688e-27
+        },
+        {
+            "context": "Lenovo IBM R51 ThinkPad Laptop ( 28892RU )",
+            "category": "Laptops",
+            "question": "What is the Weight of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "28892RU",
+            "score": 2.344789085005344e-27
+        },
+        {
+            "context": "Lenovo IBM R51 ThinkPad Laptop ( 28892RU )",
+            "category": "Laptops",
+            "question": "What is the Screen Size of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "28892RU",
+            "score": 2.9194565359033626e-27
+        },
+        {
+            "context": "Lenovo IBM R51 ThinkPad Laptop ( 28892RU )",
+            "category": "Laptops",
+            "question": "What is the Number of Cores of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "28892RU",
+            "score": 5.642295268970221e-27
+        },
+        {
+            "context": "Lenovo IBM R51 ThinkPad Laptop ( 28892RU )",
+            "category": "Laptops",
+            "question": "What is the Refresh Rate of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "28892RU",
+            "score": 2.5808819035399753e-27
+        },
+        {
+            "context": "Lenovo IdeaPad Yoga 13 13.3-Inch Convertible 2 in 1 Touchscreen Ultrabook (59372329)",
+            "category": "Laptops",
+            "question": "What is the Processor Brand of the Laptop?",
+            "answer": "I do not know.",
+            "pred": "Convertible",
+            "score": 1.2443789713947961e-24
+        },
+        {
+            "context": "Kodak EasyShare CX6230 2MP Digital Camera w/ 3x Optical Zoom",
+            "category": "Digital Cameras",
+            "question": "What is the Sensor Size of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "CX6230",
+            "score": 4.691675661794521e-26
+        },
+        {
+            "context": "Digital Concepts 23070 Crayola VGA Camera with 1.1 Preview Screen (Green)",
+            "category": "Digital Cameras",
+            "question": "What is the Resolution of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "23070 Crayola",
+            "score": 1.4430355205295977e-26
+        },
+        {
+            "context": "Panasonic Lumix DMC-TS6R Digital Camera (Red) + DMW-BCM13 Replacement Li-on Battery + 16GB SDHC Card + Small Case + Floating Strap + Mini Flexible Tripod + Card Reader + Card Wallet Saver Bundle",
+            "category": "Digital Cameras",
+            "question": "What is the Resolution of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "TS6R",
+            "score": 3.0161224033748986e-25
+        },
+        {
+            "context": "Canon EOS 7D Mark II DSLR Camera (Body) + 32GB Card + Camera CASE + Tripod - International Vesion (No Warranty)",
+            "category": "Digital Cameras",
+            "question": "What is the Optical Zoom of the Digital Camera?",
+            "answer": "I do not know.",
+            "pred": "DSLR Camera",
+            "score": 1.6495676255338184e-26
+        }
+    ]
+}
